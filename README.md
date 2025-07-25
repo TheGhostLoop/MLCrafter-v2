@@ -1,5 +1,3 @@
-Here’s a tailored `README.md` for your new version of **MLCrafter**:
-
 ---
 
 # 🤖 MLCrafter v2
@@ -119,4 +117,3 @@ MIT License — free to use, modify, and share.
 
 ---
 
-Let me know when you're ready — I can help you write `requirements.txt`, push the code to GitHub, and add a preview badge too.
