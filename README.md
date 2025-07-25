@@ -109,7 +109,7 @@ You'll be prompted with:
 
 Built with 💻 and frustration-fueled learning by **TheGhostLoop**.
 
----
+
 
 ## 📜 License
 
